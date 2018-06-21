@@ -1,4 +1,5 @@
 {
+  "name": "minify",
   "private": true,
   "license": "MIT",
   "author": "amasad",
